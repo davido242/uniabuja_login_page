@@ -1,0 +1,62 @@
+body {
+		background-color: #b3b3ff;
+}
+
+.header {
+	width: 100%; 
+	height: auto;
+}
+.logo {
+	width: auto; 
+	height: 80px; 
+	margin: 30px 0 0 30px;	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	
+	color: white; 
+	text-align: center; 
+}
+.wrap {
+	width: 100%;
+	height: auto; 
+}
+.login {
+	width: 28%;
+	height: 280px;
+	border-radius: 3x0px;
+	background-color: green; 
+	margin: 5% 0 0 35%;
+	padding: 20px;
+}
+.footer {
+	
+	width: 100% ;
+	height:  auto;
+	text-align: center; 
+	margin-top: 100px;
+	color: white; 	
+	font-family: arial;
+	font-size: 20px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.forms{
+	color: white; 
+	font-family: arial; 
+	font-size: 15px;
+}
